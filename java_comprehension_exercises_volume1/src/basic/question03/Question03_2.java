@@ -20,7 +20,7 @@ public class Question03_2 {
 		int totalWithTax = (int) totalwithTax;
 
 		System.out.println("購入可能枚数は[" + reducedTickets + "]枚です。");
-		System.out.println("値下げ後の 1 枚あたりの料金は[" + reducedPrice + " の値]円です。");
+		System.out.println("値下げ後の 1 枚あたりの料金は[" + reducedPrice + " ]円です。");
 		System.out.println("合計金額（税抜）は[" + totalPrice + "]です。");
 		System.out.println("合計金額（税込）は[" + totalWithTax + "]です。");
 

@@ -14,7 +14,7 @@ public class Question03_1 {
 		int totalBudget = 300;
 		int quantity = totalBudget / price;
 
-		System.out.println("商品の購入数は[" + quantity + "の値]個です。");
+		System.out.println("商品の購入数は[" + quantity + "]個です。");
 
 	}
 }
